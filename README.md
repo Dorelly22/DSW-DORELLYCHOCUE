@@ -1,3 +1,3 @@
 # DSW-DORELLYCHOCUE
-FASE 1 PLANEACION
-FASE 2 DISEÑO Y CONTRUCCION 
+Fase 1 - Planeación <br>
+Unidad 1 - Fase 2 - Diseño y construcción I
