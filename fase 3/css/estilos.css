@@ -1,0 +1,94 @@
+header {
+background-color:white;
+padding: 5px;
+}
+
+.inline{
+
+    display: inline-block;
+}
+
+nav{
+    background-color:lightsteelblue;
+    padding: 5px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu-area a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(2, 0, 14);
+    background:lightsteelblue;
+    height: 50px;
+    text-decoration: none;
+}
+
+.menu-area a:hover {
+    background:darkcyan;
+    color:blue;
+
+}
+
+.menu-area ul {
+    list-style: none;
+    display: flex;
+}
+
+.menu-area li {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+.menu-area li:hover .dropdown-1>li {
+    top: 0;
+    display: block;
+}
+
+.dropdown-1 li {
+    display: none;
+    position: relative;
+}
+
+.dropdown-1 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.dropdown-1 li:hover {
+    display: block;
+}
+
+section{
+float: left;
+width:75%
+}
+
+aside{
+    float: left;
+    width: 25%;
+}
+
+footer{
+    background-color: lightgrey;
+    padding: 5px;
+}
+
+
+.cont::after{
+
+    clear: both;
+    display: block;
+    content:"";
+    
+}
+.cont {
+ text-align:center ;
+border: 1px solid black
+}
