@@ -11,17 +11,7 @@
 
 <body>
 
-    <center>
-        <h1>Proyecto de sitio Web 2021 - 1601 </h1>>
-    </center>
-
-    <a href="desing.html">Fase 2 - Diseño y construcción I</a>
-
-    <a href="fase3/index.html">Fase 3 - diseño y contruccion II</a>
-    
-    <br>
-
-    <h3>Dorelly Chocue Ibarra </h3>
+     <h3>Dorelly Chocue Ibarra </h3>
     <h3>Ingenieria de Sistemas </h3>
     <h3> 14 de febrero de 2021 </h3>
 
