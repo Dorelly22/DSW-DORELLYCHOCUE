@@ -1,5 +1,5 @@
 # DSW-DORELLYCHOCUE
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
